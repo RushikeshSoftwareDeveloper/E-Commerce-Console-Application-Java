@@ -1,0 +1,22 @@
+# 🛒 E-Commerce Console Application (Java)
+
+## 📌 Project Description
+A console-based E-Commerce system developed using Core Java.
+The application simulates a basic online shopping system where users can view products, add items to cart, remove products, and checkout.
+
+## 🚀 Features
+- View Products
+- Add Product to Cart
+- Remove Product from Cart
+- Checkout System
+- Bill Generation
+- Cart Management
+
+## 🛠 Concepts Used
+- OOP (Classes & Objects)
+- Collections Framework (ArrayList)
+- Exception Handling
+- Methods
+- Scanner for User Input
+
+## 📂 Project Structure
